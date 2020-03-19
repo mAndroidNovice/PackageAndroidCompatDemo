@@ -1,0 +1,3 @@
+rootProject.name='ModuleCompatApplication'
+include ':app'
+include ':leancloud'
